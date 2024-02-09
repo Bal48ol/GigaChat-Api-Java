@@ -22,8 +22,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.json:json:20231013")
-    implementation("com.jayway.jsonpath:json-path:2.6.0")
+    implementation("org.springframework.cloud:spring-cloud-starter-openfeign:4.1.0")
 
     implementation("org.springframework.boot:spring-boot-starter-web")
     compileOnly("org.projectlombok:lombok")

@@ -1,4 +1,4 @@
-package org.gigachattest.services;
+package org.gigachattest.services.gigachat;
 
 import java.io.IOException;
 

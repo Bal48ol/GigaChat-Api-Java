@@ -1,4 +1,4 @@
-package org.gigachattest;
+package org.gigachattest.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
